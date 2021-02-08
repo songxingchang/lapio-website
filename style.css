@@ -1,1 +1,8 @@
-p { background-color: red; }
+* {
+  color: orange;
+}
+.li_head { color : red;}
+h1 {color : blue;}
+h2 {color : brown;}
+h3 {color : purple;}
+#orange_h3 {color : orange;}
